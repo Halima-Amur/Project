@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Project",
+    "\\Project\\Migrations",
+    "\\Project\\Models",
+    "\\Project\\MyDbContext"
+  ],
+  "SelectedNode": "\\Project\\Models\\Employee.cs",
+  "PreviewInSolutionExplorer": false
+}

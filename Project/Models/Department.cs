@@ -18,5 +18,7 @@ namespace Project.Models
 		public string Name { get; set; }
 		[Range(1, 4)]
 		public int floor { get; set; }
+
+		public ICollection<Employee> Employee { get; } = new List<Employee>();
 	}
 }
